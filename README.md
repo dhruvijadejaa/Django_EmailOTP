@@ -1,0 +1,1 @@
+![image](./frontend/src/assets/EmailVerification.png)
